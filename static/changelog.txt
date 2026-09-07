@@ -1,0 +1,205 @@
+----------------------------------------------------------------------------------------------------
+Version: 2.1.0
+Date: 01. 09. 2026
+  Features:
+    - Renamed mod to 'qol'.
+    - Built comprehensive in-game YAFC (Yet Another Factorio Calculator) production planner with React GUI.
+    - Added full Factorio 2.0 and Space Age support: quality metrics, discrete fluid temperatures, beacons, fuels, and tech unlocks.
+  Refactoring:
+    - Optimized RAM prototype catalogs with lazy indexing and immediate temp build memory reclamation.
+    - Centralized technology progression tiers and science pack unlocks.
+----------------------------------------------------------------------------------------------------
+Version: 2.0.13
+Date: 04. 08. 2026
+  Changes:
+  - Set all required mods as a recommended dependency.
+---------------------------------------------------------------------------------------------------
+Version: 2.0.11
+Date: 12. 05. 2025
+  Changes:
+  - Removed even-pickier-dollies.
+  - Added ModuleInserterEx.
+---------------------------------------------------------------------------------------------------
+Version: 2.0.10
+Date: 05. 05. 2025
+  Changes:
+  - Removed belt-visualizer.
+  - Removed Fill4Me.
+  - Removed more-minimap-autohide-017.
+  - Removed VehicleSnap.
+  - Set even-distribution as optional.
+---------------------------------------------------------------------------------------------------
+Version: 2.0.9
+Date: 03. 05. 2025
+  Changes:
+  - Removed extended-descriptions.
+  - Removed quick-chest-limit.
+  - Set blueprint-sandboxes as optional.
+---------------------------------------------------------------------------------------------------
+Version: 2.0.8
+Date: 02. 02. 2025
+  Changes:
+  - Replaced GUI_Unifyer_Unified to GUI_Unifyer.
+---------------------------------------------------------------------------------------------------
+Version: 2.0.7
+Date: 19. 01. 2025 
+  Changes:
+  - Added GUI_Unifyer_Unified.
+  - Replaced Nanobots to Nanobots2.
+  - Replaced P-U-M-P-S to water-pumpjack.
+  - Removed UltimateResearchQueue (deprecated).
+  - Removed deep-storage-unit.
+  - Removed fluid-memory-storage.
+---------------------------------------------------------------------------------------------------
+Version: 2.0.6
+Date: 21. 12. 2024 
+  Changes:
+  - Set nicefill as optional because it doesn't work.
+---------------------------------------------------------------------------------------------------
+Version: 2.0.5
+Date: 12. 12. 2024 
+  Changes:
+  - Replaced TaskList to Todo-List.
+---------------------------------------------------------------------------------------------------
+Version: 2.0.4
+Date: 30. 11. 2024 
+  Changes:
+  - Replaced Todo-List-Continued to TaskList.
+  - Added smaller-shortcut-icons.
+  - Fixed chortcut orders.
+---------------------------------------------------------------------------------------------------
+Version: 2.0.3
+Date: 09. 11. 2024 
+  Changes:
+  - Replaced PickerDollies to even-pickier-dollies.
+  - Replaced Todo-List to Todo-List-Continued.
+  - Replaced nicefill to nicefill-scriptfix.
+  - Removed GUI_Unifyer.
+  - Removed PickerExtended.
+  - Removed inventory-repair.
+  - Set Nanobots as optional.
+  - Set extended-descriptions as optional (until update to 2.0).
+  - Set quick-chest-limit as optional (until update to 2.0).
+  - Set TrainModeSwitcher as optional (until update to 2.0).
+  - Set UltimateResearchQueue as optional (until update to 2.0).
+---------------------------------------------------------------------------------------------------
+Version: 2.0.2
+Date: 25. 10. 2024
+  Changes:
+  - Replaced Squeak Through to squeak-through-2.
+  - Replaced QueueToFrontNG to QueueToFrontLimited.
+  - Set RPGsystem as optional.
+  - Set qol_research as optional
+  - Removed BetterAlertArrows (included in 2.0).
+  - Removed Gun_Turret_Alerts (included in 2.0).
+  - Removed StatsGui-HandcraftTimer.
+---------------------------------------------------------------------------------------------------
+Version: 2.0.1
+Date: 21. 10. 2024
+  Changes:
+  - Replaced Fill4Me-fixed to Fill4Me.
+  - Removed flushable-fluid-wagons.
+---------------------------------------------------------------------------------------------------
+Version: 2.0.0
+Date: 17. 10. 2024
+  Changes:
+  - Removed blueprint_flip_and_turn (included in 2.0).
+  - Removed nixie-tubes (included in 2.0).
+  - Removed ModuleInserter (included in 2.0).
+  - Removed PipeVisualizer (included in 2.0).
+  - Removed RecipeBook (included in 2.0).
+  - Removed textplates (included in 2.0).
+  - Removed WireShortcuts (included in 2.0).
+  - Set Flow Control as optional.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.26
+Date: 09. 10. 2024
+  Changes:
+  - Removed WellPlanner.
+  - Added pump.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.25
+Date: 20. 09. 2024
+  Changes:
+  - Set bobinserters as optional.
+  - Removed FluidMustFlow.
+  - Removed GhostWarnings.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.
+Date: 25. 08. 2024
+  Changes:
+  - Added more-minimap-autohide-017.
+  - Added force-inventory-insert.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.23
+Date: 07. 08. 2024
+  Changes:
+  - Set artillery-bombardment-remote-reloaded as optional.
+  - Set P-U-M-P-S as optional.
+  - Added GUI_Unifyer.
+  - Added WireShortcuts.
+  - Removed WideChests.
+  - Removed nco-LongStorageTanks.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.22
+Date: 06. 08. 2024
+  Changes:
+  - Removed LTN mods.
+  - Removed LightedPolesPlus.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.21
+Date: 08. 06. 2024
+  Changes:
+  - Remvoed robot_attrition.
+  - Remvoed InserterFuelLeech
+  - Removed GhostInHand
+  - Set alien-biomes-hr-terrain as optional.
+  - Added flushable-fluid-wagons.
+  - Added Gun_Turret_Alerts.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.20
+Date: 01. 04. 2024
+  Changes:
+  - Added mods: Inserter Fuel Leech, Better Alert Arrows, Ghost Warnings.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.19
+Date: 27. 03. 2024
+  Changes:
+  - Changed shortcuts orders.
+  - Added LTN Cleanup mod.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.18
+Date: 18. 03. 2024
+  Changes:
+  - Fixed default setting.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.14
+Date: 28. 11. 2023
+  Changes:
+  - Added Quick Chest Limit.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.6
+Date: 01. 11. 2023
+  Changes:
+  - Added gui stats mods, solar panel.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.5
+Date: 08. 10. 2023
+  Changes:
+  - Added auto repair in invertory mod.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.2
+Date: 16. 09. 2023
+  Changes:
+  - Added some useful mods.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 10. 09. 2023
+  Changes:
+  - Added changed default settings.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 31. 08. 2023
+  Changes:
+  - Created mod.
+---------------------------------------------------------------------------------------------------

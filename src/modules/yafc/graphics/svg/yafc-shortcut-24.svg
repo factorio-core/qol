@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <defs>
+    <linearGradient id="bodyGrad24" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#475569"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+  </defs>
+  <!-- Calculator Body -->
+  <rect x="2" y="1" width="20" height="22" rx="3" fill="url(#bodyGrad24)" stroke="#0f172a" stroke-width="1.2"/>
+  <!-- Screen Display -->
+  <rect x="4" y="3" width="16" height="6" rx="1.5" fill="#052e16" stroke="#14532d" stroke-width="0.8"/>
+  <!-- Chart Line -->
+  <path d="M 5.5,7 L 8,4.5 L 11,6 L 14,4 L 17.5,5" stroke="#4ade80" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- Button Grid -->
+  <rect x="4" y="11" width="3.8" height="2.8" rx="0.5" fill="#94a3b8"/>
+  <rect x="10.1" y="11" width="3.8" height="2.8" rx="0.5" fill="#94a3b8"/>
+  <rect x="16.2" y="11" width="3.8" height="2.8" rx="0.5" fill="#22c55e"/>
+
+  <rect x="4" y="15" width="3.8" height="2.8" rx="0.5" fill="#94a3b8"/>
+  <rect x="10.1" y="15" width="3.8" height="2.8" rx="0.5" fill="#94a3b8"/>
+  <rect x="16.2" y="15" width="3.8" height="2.8" rx="0.5" fill="#94a3b8"/>
+
+  <rect x="4" y="19" width="3.8" height="2.8" rx="0.5" fill="#94a3b8"/>
+  <rect x="10.1" y="19" width="3.8" height="2.8" rx="0.5" fill="#94a3b8"/>
+  <rect x="16.2" y="19" width="3.8" height="2.8" rx="0.5" fill="#f97316"/>
+</svg>

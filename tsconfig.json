@@ -1,0 +1,15 @@
+{
+  "extends": "fcore/tsconfig.base.json",
+  "compilerOptions": {
+    "rootDir": "./src",
+    "outDir": "./dist",
+    "baseUrl": ".",
+    "noImplicitReturns": true,
+    "paths": {
+      "fcore/*": ["./node_modules/fcore/dist/*"]
+    }
+  },
+  "include": [
+    "src/**/*"
+  ]
+}
